@@ -1,7 +1,7 @@
 Package: Rneshaps
 Type: Package
 Title: Functions for working with CAP88-PC output
-Version: 2.1-1
+Version: 2.1-2
 Date: 2013-05-16
 Author: D. MacQueen
 Maintainer: D. MacQueen <macqueen1@llnl.gov>
