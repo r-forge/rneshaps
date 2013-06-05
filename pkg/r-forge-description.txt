@@ -1,0 +1,5 @@
+This package contains functions for working with the output of the CAP88 PC air dispersion model (www.epa.gov/rpdweb00/docs/cap88/402-b-92-001.pdf). My paper titled "A Best Fit Approach to Estimating Multiple Diffuse Source Terms Using Ambient Air Monitoring Data and an Air Dispersion Model" describing the fitting method has been accepted for publication this summer in the journal Operational Radiation Safety (http://hps.org/hpspublications/operational.html). The paper mentions that the approach is implemented in R, and I need a place where readers of the paper can download the R package.
+
+
+
+rneshaps

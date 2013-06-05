@@ -1,0 +1,19 @@
+## be sure to list all functions defined in ./R/*.r
+export(aterp,aterpfun)
+export(cap.grid,cap.i,cap.ii,cap.join,cap.add)
+export(closest)
+export(dist.xy, fill.xy)
+#export(getcon, getsum)
+export(getcon)
+export(xyzdf.to.xyzimg, df.to.img, xyzimg.to.xyzdf,img.to.df)
+export(caplist,print.caplist,predict.caplist)
+# not sure if these should be exported
+export(print.capfield, plot.capfield)
+export(print.capfit, plot.capfit)
+export(print.capcon, print.capgrid, print.cappar, print.cappred, print.cfitobj)
+# for fitting
+export(capfit, cappar, cfitfun, csrcpct, get.cavgs, Rnes.sp.to.df)
+# more plotting
+export(barplot.capfit, contour.capfit)
+#S3method()
+useDynLib(Rneshaps)
