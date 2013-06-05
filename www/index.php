@@ -43,8 +43,6 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
-
 <p> The <strong>project summary page</strong> you can <strong>find</strong> <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
 <b>Software Abstract<br>
@@ -88,7 +86,7 @@ A Best Fit Approach to Estimating Multiple Diffuse Source Terms Using Ambient Ai
 <br><br>
 (group 2)<br>
 R Core Team. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. ISBN 3-900051-07-0. URL http://www.R-project.org/; 2012.
-<br>
+<br><br>
 U.S. Environmental Protection Agency. User's guide for CAP88-PC Version 1. EPA 402-B-92-001; 1992. Available at http://www.epa.gov/rpdweb00/docs/cap88/402-b-92-001.pdf. Accessed 20 December 2012.
 </DL>
 
