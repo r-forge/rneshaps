@@ -47,7 +47,6 @@ echo $contents; } ?>
 
 <p> The <strong>project summary page</strong> you can <strong>find</strong> <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
-
 <b>Software Abstract<br>
 May 15, 2013
 </b>
