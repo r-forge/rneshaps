@@ -110,7 +110,10 @@ cd1 <- cap.join(cd1n, cd1f)
 cd2 <- cap.join(cd2n, cd2f)
 cd3 <- cap.join(cd3n, cd3f)
 
-## normally, the second point source would have different CAP88 CON files
+## normally, the second point source would have different CAP88 CON
+   files
+## here, fake it by adjusting the concentrations
+adj.conc <- 1.5
 cp2$cap <- cp2$cap * adj.conc ; cp2$capdf$conc <- cp2$capdf$conc * adj.conc
 
 ## put the model concentration info into a 'caplist' object for use by capfit()
